@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# Display the ASCII Art logo
+echo " Cod buy iambg0731<|| *****"
+echo ""
+
 # Install necessary dependencies
 echo "Installing necessary dependencies...Subscribe To SoloPlayz!"
 
